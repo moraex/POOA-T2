@@ -30,6 +30,10 @@ ou clique no botão **Code** no canto superior direito > Download Zip > Descompa
 e execute
 
 ```bash
-python main.py
+python main.py -site <seu_site> [-sep <seu_sep>]
 ```
 
+exemplo
+```bash
+python main.py -site estadao
+```
